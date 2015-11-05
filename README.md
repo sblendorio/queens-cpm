@@ -11,3 +11,13 @@
 
 ##Credits
 Thanks to [TomHarte](https://github.com/TomHarte) for his [CP/M for OS X](https://github.com/TomHarte/CP-M-for-OS-X) and [Robert Willie] (https://sites.google.com/site/h2obsession/CBM/C128/cp-m) for sharing infos
+
+##Screenshots
+###Intro screen - C128 and MacBookPro
+![C128 version](http://www.sblendorio.eu/images/queen1.png)
+###Game screen - C128 and MacBookPro
+![C128 version](http://www.sblendorio.eu/images/queen2.png)
+###Intro screen - C128
+![C128 version](http://www.sblendorio.eu/images/queen3.png)
+###Game screen - C128
+![C128 version](http://www.sblendorio.eu/images/queen4.png)
