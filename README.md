@@ -10,7 +10,7 @@
   - [**queens.d64**](https://github.com/sblendorio/queens-cpm/raw/master/dists/queens.d64) - Includes CP/M boot code, all sources and binaries
 
 ## Credits
-Thanks to [TomHarte](https://github.com/TomHarte) for his [CP/M for OS X](https://github.com/TomHarte/CP-M-for-OS-X), [Robert Willie] (https://sites.google.com/site/h2obsession/CBM/C128/cp-m) for sharing infos and advices, [Werner Cirsovius](http://cirsovius.de/CPM/Projekte/TURBO-PASCAL/Append/turbo-04-en.html) for implementing "Append" missing function and **Marco Luciano** for his advices.
+Thanks to [TomHarte](https://github.com/TomHarte) for his [CP/M for OS X](https://github.com/TomHarte/CP-M-for-OS-X), [Robert Willie](https://sites.google.com/site/h2obsession/CBM/C128/cp-m) for sharing infos and advices, [Werner Cirsovius](http://cirsovius.de/CPM/Projekte/TURBO-PASCAL/Append/turbo-04-en.html) for implementing "Append" missing function and **Marco Luciano** for his advices.
 
 ## Screenshots
 ### Intro screen - C128 and MacBookPro
